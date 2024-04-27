@@ -1,0 +1,10 @@
+2022-05-26 15:08: syncthing is not running
+2022-05-26 15:08: smbd is not running
+2022-05-26 15:10: smbd is not running
+2022-05-26 15:32: smbd is not running
+2022-05-26 15:34: smbd is not running
+2022-05-26 15:36: smbd is not running
+2022-05-26 15:38: smbd is not running
+2022-05-27 19:17: /media/pi/netdisk1 is not connected
+2022-05-27 19:17: /media/pi/netdisk2 is not connected
+2022-05-27 19:17: /media/pi/netdisk3 is not connected
